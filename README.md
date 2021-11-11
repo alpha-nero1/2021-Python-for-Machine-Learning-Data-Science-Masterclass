@@ -1,7 +1,9 @@
 # 2021 Python for Machine Learning & Data Science Masterclass
 A project following along with the "2021 Python for Machine Learning & Data Science Masterclass" class by Jose Portilla on Udemy.
 
-Progress = 11/235
+### Progress
+11/235
+23/235
 
 ## Notes and learnings from the tutorial
 
