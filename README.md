@@ -4,6 +4,7 @@ A project following along with the "2021 Python for Machine Learning & Data Scie
 ### Progress
 - 11/235
 - 23/235
+- 32/235
 
 ## Notes and learnings from the tutorial
 
