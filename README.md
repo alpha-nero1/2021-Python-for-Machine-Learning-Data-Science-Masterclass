@@ -8,6 +8,7 @@ A project following along with the "2021 Python for Machine Learning & Data Scie
 - 43/235
 - 50/235
 - 53/235
+- 63/235
 
 ## Notes and learnings from the tutorial
 
