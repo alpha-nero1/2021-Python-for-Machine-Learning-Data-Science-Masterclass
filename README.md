@@ -18,7 +18,8 @@ A project following along with the "2021 Python for Machine Learning & Data Scie
 - 129/235
 - 136/235
 - 141/235
-- 146/235 (62.1%)
+- 146/235 (62.1)
+- 152/235 (64.6)
 
 ## Notes and learnings from the tutorial
 
