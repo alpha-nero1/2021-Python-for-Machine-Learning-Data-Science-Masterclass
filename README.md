@@ -1,6 +1,9 @@
 # 2021 Python for Machine Learning & Data Science Masterclass
 A project following along with the "2021 Python for Machine Learning & Data Science Masterclass" class by Jose Portilla on Udemy.
 
+Note that the folder 'project' contains an actual flask server implementation that loads a
+random forest regressor model and does predictions over an API.
+
 ### Progress
 - 11/235
 - 23/235
@@ -23,6 +26,12 @@ A project following along with the "2021 Python for Machine Learning & Data Scie
 - 159/235 (67.6)
 - 173/235 (73.6)
 - 187/235 (79.5)
+- 198/235 (84.2)
+- 203/235 (86.3)
+- 210/235 (89.3)
+- 215/235 (91.4)
+- 221/235 (94)
+- 235/235 (100)
 
 ## Notes and learnings from the tutorial
 
